@@ -169,7 +169,7 @@ const seedEquipment: Equipment[] = [
   eq(11, "DJI Ronin RS3", "Stabilizer", "DJI", "RS3", 549, "Good", "Available", ["Phone holder", "Tripod"]),
   eq(12, "Godox LED Panel Kit (3×)", "Lighting", "Godox", "LEDP260C", 459, "Fair", "Available", ["3× stand", "Batteries", "Bag"]),
   eq(13, "Sennheiser MKE 600", "Audio", "Sennheiser", "MKE 600", 329, "Excellent", "Available", ["Foam windscreen", "Shock mount"]),
-  eq(14, "Sony FE 35mm f/1.4 GM", "Lens", "Sony", "SEL35F14GM", 1399, "Excellent", "Rented", ["Caps", "Hood"]),
+  eq(14, "Sony FE 35mm f/1.4 GM", "Lens", "Sony", "SEL35F14GM", 1399, "Excellent", "Available", ["Caps", "Hood"]),
   eq(15, "Zoom F6 Field Recorder", "Audio", "Zoom", "F6", 649, "Good", "Available", ["AA battery sled", "SD card"]),
 ];
 
